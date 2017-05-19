@@ -21,6 +21,9 @@ https://github.com/teamcapybara/capybara
 Selenium Web-Driver
 https://rubygems.org/gems/selenium-webdriver
 
+Chrome Gecko Driver
+https://sites.google.com/a/chromium.org/chromedriver/
+
 
 Useful commands after installation in the terminal / command prompt:
 
